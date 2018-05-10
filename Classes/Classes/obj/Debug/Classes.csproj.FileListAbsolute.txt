@@ -1,0 +1,7 @@
+c:\users\damian.sochacki\source\repos\Classes\Classes\bin\Debug\Classes.exe.config
+c:\users\damian.sochacki\source\repos\Classes\Classes\bin\Debug\Classes.exe
+c:\users\damian.sochacki\source\repos\Classes\Classes\bin\Debug\Classes.pdb
+c:\users\damian.sochacki\source\repos\Classes\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+c:\users\damian.sochacki\source\repos\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+c:\users\damian.sochacki\source\repos\Classes\Classes\obj\Debug\Classes.exe
+c:\users\damian.sochacki\source\repos\Classes\Classes\obj\Debug\Classes.pdb
