@@ -1,0 +1,7 @@
+C:\Users\damian.sochacki\source\repos\CarbonFootPrint\CarbonFootPrint\bin\Debug\CarbonFootPrint.exe.config
+C:\Users\damian.sochacki\source\repos\CarbonFootPrint\CarbonFootPrint\bin\Debug\CarbonFootPrint.exe
+C:\Users\damian.sochacki\source\repos\CarbonFootPrint\CarbonFootPrint\bin\Debug\CarbonFootPrint.pdb
+C:\Users\damian.sochacki\source\repos\CarbonFootPrint\CarbonFootPrint\obj\Debug\CarbonFootPrint.csprojResolveAssemblyReference.cache
+C:\Users\damian.sochacki\source\repos\CarbonFootPrint\CarbonFootPrint\obj\Debug\CarbonFootPrint.csproj.CoreCompileInputs.cache
+C:\Users\damian.sochacki\source\repos\CarbonFootPrint\CarbonFootPrint\obj\Debug\CarbonFootPrint.exe
+C:\Users\damian.sochacki\source\repos\CarbonFootPrint\CarbonFootPrint\obj\Debug\CarbonFootPrint.pdb
